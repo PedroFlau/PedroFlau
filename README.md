@@ -380,7 +380,7 @@ Here are some ideas to get you started:
 </details>
 </div>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wdu1bz02nqs4mj5wy59yat9wo&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=wdu1bz02nqs4mj5wy59yat9wo&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wdu1bz02nqs4mj5wy59yat9wo&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=wdu1bz02nqs4mj5wy59yat9wo&redirect=true)
 
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=wdu1bz02nqs4mj5wy59yat9wo">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=wdu1bz02nqs4mj5wy59yat9wo" alt="Data Card for Spotify">
