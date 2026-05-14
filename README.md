@@ -62,3 +62,13 @@ Here are some ideas to get you started:
 </div>
 
 -----
+
+<div align="justify">
+<i><b>Olá</b> :wave:, sou o <code>Aramuni</code>, tenho 35 anos, moro em BH e sou programador desde os 15 anos de idade. Atualmente sou <code>professor</code> nos cursos de Engenharia de Software e Ciência da Computação da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher: Confira meu portfólio: <a href="https://aramuni.dev/">aramuni.dev</a>
+</div>
+
+-----
+
+<img alt="Stars" src="https://img.shields.io/github/stars/joaopauloaramuni?style=social"/> <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/star.svg?raw=true"/>&nbsp;Mais de 1200 estrelas somadas nos repositórios. Obrigado pelo seu apoio! 👨‍💻
+
+-----
