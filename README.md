@@ -127,3 +127,380 @@ Here are some ideas to get you started:
 </div>
 
 -----
+
+<div>
+
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/skills.svg?raw=true"/>&nbsp;Linguagens e ferramentas:
+
+<table align="center">
+  <tr>
+    <td align="center" colspan="12"></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://joaopauloaramuni.github.io/image/bash.png?raw=true"/></a></td>
+    <td align="center"><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/python.png?raw=true"/></a></td>
+    <td align="center"><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/c.png?raw=true"/></a></td>
+    <td align="center"><a href="https://isocpp.org/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/cpp.svg?raw=true"/></a></td>
+    <td align="center"><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/csharp.png?raw=true"/></a></td>
+    <td align="center"><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/java.png?raw=true"/></a></td>
+    <td align="center"><a href="https://openjfx.io/" target="_blank"><img height="32" src="https://joaopauloaramuni.github.io/image/javafx.png?raw=true"/></a></td>
+    <td align="center"><a href="https://www.primefaces.org/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/primefaces.png?raw=true"/></a></td>
+    <td align="center"><a href="https://spring.io/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/spring.png?raw=true"/></a></td>
+    <td align="center"><a href="https://www.playframework.com/" target="_blank"><img width="48" height="32" src="https://joaopauloaramuni.github.io/image/play.png?raw=true"/></a></td>
+    <td align="center"><a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/dotnet.png?raw=true"/></a></td>
+    <td align="center"><a href="https://www.jenkins.io/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/jenkins.svg?raw=true"/></a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="12"></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/html.svg?raw=true"/></a></td>
+    <td align="center"><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/css.svg?raw=true"/></a></td>
+    <td align="center"><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/js.png?raw=true"/></a></td>
+    <td align="center"><a href="https://pt-br.reactjs.org/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/react.png?raw=true"/></a></td>
+    <td align="center"><a href="https://docs.microsoft.com/pt-br/windows/win32/lwef/using-vbscript" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/vbs.png?raw=true"/></a></td>
+    <td align="center"><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/mysql.png?raw=true"/></a></td>
+    <td align="center"><a href="https://www.postgresql.org/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/postgresql.png?raw=true"/></a></td>
+    <td align="center"><a href="https://www.mongodb.com/pt-br" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/mongodb.png?raw=true"/></a></td>
+    <td align="center"><a href="https://dbeaver.io/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/dbeaver.png?raw=true"/></a></td>
+    <td align="center"><a href="https://nodejs.org/en/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/nodejs.png?raw=true"/></a></td>
+    <td align="center"><a href="https://nextjs.org/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/nextjs.png?raw=true"/></a></td>
+    <td align="center"><a href="https://jestjs.io/pt-BR/" target="_blank"><img width="30" height="32" src="https://joaopauloaramuni.github.io/image/jest.png?raw=true"/></a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="12"></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://prometheus.io/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/prometheus.png?raw=true"/></a></td>
+    <td align="center"><a href="https://grafana.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/grafana.png?raw=true"/></a></td>
+    <td align="center"><a href="https://newrelic.com/pt" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/newrelic.png?raw=true"/></a></td>
+    <td align="center"><a href="https://fastapi.tiangolo.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/fastapi.svg?raw=true"/></a></td>
+    <td align="center"><a href="https://www.docker.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/docker.png?raw=true"/></a></td>
+    <td align="center"><a href="https://aws.amazon.com/pt/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/aws.png?raw=true"/></a></td>
+    <td align="center"><a href="https://www.heroku.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/heroku.png?raw=true"/></a></td>
+    <td align="center"><a href="https://fly.io/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/fly.png?raw=true"/></a></td>
+    <td align="center"><a href="https://www.postman.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/postman.png?raw=true"/></a></td>
+    <td align="center"><a href="https://insomnia.rest/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/insomnia.png?raw=true"/></a></td>
+    <td align="center"><a href="https://www.soapui.org/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/soap.png?raw=true"/></a></td>
+    <td align="center"><a href="https://redis.io/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/redis.png?raw=true"/></a></td>
+  </tr>
+   <tr>
+    <td align="center" colspan="12"></td>
+  </tr>
+   <tr>
+    <td align="center"><a href="https://aws.amazon.com/pt/s3/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/s3.svg?raw=true"/></a></td>
+    <td align="center"><a href="https://aws.amazon.com/pt/sqs/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/sqs.png?raw=true"/></a></td>
+    <td align="center"><a href="https://git-scm.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/git.png?raw=true"/></a></td>
+    <td align="center"><a href="https://about.gitlab.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/gitlab.png?raw=true"/></a></td>
+    <td align="center"><a href="https://www.jetbrains.com/pt-br/pycharm/download/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/pc.png?raw=true"/></a></td>
+    <td align="center"><a href="https://www.eclipse.org/downloads/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/eclipse.png?raw=true"/></a></td>
+    <td align="center"><a href="https://netbeans.apache.org/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/netbeans.png?raw=true"/></a></td>
+    <td align="center"><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/vs.png?raw=true"/></a></td>
+    <td align="center"><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/intellij.png?raw=true"/></a></td>
+    <td align="center"><a href="https://developer.apple.com/xcode/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/xcode.png?raw=true"/></a></td>
+    <td align="center"><a href="https://cursor.com/pt-BR" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/cursor.png?raw=true"/></a></td>
+    <td align="center"><a href="https://claude.ai/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/claude.svg?raw=true"/></a></td>
+   </tr>
+   <tr>
+    <td align="center" colspan="12"></td>
+   </tr>
+</table>
+
+</div>
+
+-----
+
+<div>
+
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/handshake2.svg?v=2&cb=1"/>&nbsp;Empresas e contratos que atuei:
+
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="8"></td>
+</tr> 
+<tr>
+<td>
+ <a href="https://alamoti.net/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/alamoti.jpeg?raw=true"/></a>
+</td>
+<td>
+ <a href="https://brazil.vallourec.com/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/vsb.png?raw=true"/></a>
+</td>
+<td>
+ <a href="https://www.bb.com.br/site/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/bb2.png?raw=true"/></a>
+</td>
+<td>
+  <a href="https://www.capgemini.com/br-pt/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/capgemini.png?raw=true"/></a>
+</td>
+<td>
+ <a href="https://www.oi.com.br/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/oi.png?raw=true"/></a>
+</td>
+<td>
+ <a href="https://www.gov.br/anp/pt-br" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/anp.jpeg?raw=true"/></a>
+</td>
+<td>
+ <a href="https://www.prosegur.com.br/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/prosegur2.jpg?raw=true"/></a>
+</td>
+<td>
+ <a href="https://in8.com.br/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/in8.jpeg?raw=true"/></a>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="8"></td>
+</tr> 
+<tr>
+<td>
+ <a href="https://hotmilhas.com.br/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/hotmilhas.png?raw=true"/></a>
+</td>
+<td>
+ <a href="https://123milhas.com/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/123milhas.png?raw=true"/></a>
+</td>
+<td>
+ <a href="https://www.betrybe.com/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/trybe.jpeg?raw=true"/></a>
+</td>
+<td>
+ <a href="https://www.xpeducacao.com.br/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/xpe.jpeg?raw=true"/></a>
+</td>
+<td>
+ <a href="https://www.fumec.br/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/fumec.jpeg?raw=true"/></a>
+</td>
+<td>
+ <a href="https://www.linkedin.com/company/laisfumec/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/lais.jpeg?raw=true"/></a>
+</td>
+<td>
+ <a href="https://newtonpaiva.br/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/newton.jpeg?raw=true"/></a>
+</td>
+<td>
+ <a href="https://www.pucminas.br/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/puc2.jpg?raw=true"/></a>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="8"></td>
+</tr> 
+<tr>
+<td>
+ <a href="https://www.policiamilitar.mg.gov.br/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/cts.jpeg?raw=true"/></a>
+</td>
+<td>
+ <a href="https://mariopenna.org.br/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/mariopenna.png?raw=true"/></a>
+</td>
+<td>
+ <a href="https://www.pucminas.br/ServicosComunidade/paginas/centro-clinico-de-fisioterapia.aspx" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/fisioterapiapuc.jpeg?raw=true"/></a>
+</td>
+<td>
+ <a href="https://bhtec.org.br/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/bhtec3.png?raw=true"/></a>
+</td>
+<td>
+ <a href="https://www.mrv.com.br/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/mrvlogo.png?raw=true"/></a>
+</td>
+<td>
+ <a href="https://icei.pucminas.br/aes" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/aes.jpeg?raw=true"/></a>
+</td>
+<td>
+ <a href="https://www.jedis.com.br/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/jedis2.jpeg?raw=true"/></a>
+</td>
+<td>
+ <a href="https://aramuni.dev/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/aramunilogo.png?raw=true"/></a>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="8"></td>
+</tr> 
+</table>
+
+</div>
+
+</div>
+
+-----
+
+<div>
+
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/graphic.svg?raw=true"/>GitHub Stats:
+
+<div align="center">
+<!--
+<table>
+<tr>
+<td align="center">:octocat: <a href="https://www.githubwrapped.io/joaopauloaramuni" target="_blank">GitHub Wrapped</a></td>
+<td align="center" colspan="2">:watch: <a href="https://wakatime.com/@aramuni">WakaTime</a></td>
+</tr> 
+<tr>
+<td><img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/joaopauloaramuni/repos?time_range=one_year&loc_metric=changed&theme=dark"/></td>
+<td><img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=aramuni&theme=dark&langs_count=12"/></td>
+<td>
+<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=aramuni&theme=dark&layout=compact"/>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=joaopauloaramuni&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dark&locale=pt-br&card_width=480"/>
+</td>
+<td>
+<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopauloaramuni&theme=dark&locale=pt-br&langs_count=7"/>
+</td>
+<td>
+<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopauloaramuni&layout=pie&theme=dark&locale=pt-br"/>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+</table>
+-->
+
+<table>
+<tr>
+ <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@aramuni">WakaTime</a></td>
+</tr> 
+<tr>
+<td><img src="https://helio-github-stats.vercel.app/api/wakatime?username=aramuni&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=compact&display_format=time&disable_animations=false&langs_count=22" alt="WakaTime Stats" width="466" loading="lazy"/></td>
+<td>
+<img src="https://helio-github-stats.vercel.app/api/wakatime?username=aramuni&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=default&display_format=time&disable_animations=false&langs_count=12" alt="WakaTime Stats" width="466" loading="lazy"/>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
+<!-- <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopauloaramuni&theme=dark&locale=pt-br&langs_count=7"/> -->
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=joaopauloaramuni&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=350&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=9" alt="Linguagens mais usadas" width="350" loading="lazy" />
+</td>
+<td>
+<!-- <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopauloaramuni&layout=pie&theme=dark&locale=pt-br"/> -->
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=joaopauloaramuni&layout=pie&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=300&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="300" loading="lazy" />
+</td>
+<td>
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=joaopauloaramuni&layout=donut-vertical&stats_format=bytes&theme=dark&hide_border=false&border_radius=4.5&card_width=300&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="300" loading="lazy" />
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+</table>
+
+<table>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
+<!-- <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=joaopauloaramuni&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dark&locale=pt-br&card_width=480"/>
+<img src="https://helio-github-stats.vercel.app/api?username=joaopauloaramuni&custom_title=GitHub+Stats&theme=dark&title_color=4c71f2&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=pt-br&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=percentile&show_icons=true&include_all_commits=true&line_height=25&text_bold=true&disable_animations=false&number_format=short" alt="GitHub Stats" width="466" loading="lazy" /> -->
+<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaopauloaramuni&theme=github_dark"/>
+</td>
+<td>
+<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaopauloaramuni&theme=github_dark"/>
+</td>
+<td>
+<img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaopauloaramuni&theme=github_dark"/>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
+<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaopauloaramuni&theme=github_dark&utcOffset=8"/>
+</td>
+<td>
+<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaopauloaramuni&theme=github_dark"/>
+</td>
+<td>
+<!-- <img alt="GitHub Streak" width="420px" src="https://streak-stats.demolab.com?user=joaopauloaramuni&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/> -->
+<img src="https://github-streak-stats-ruby.vercel.app/?user=joaopauloaramuni&theme=dark&hide_border=false&border_radius=4.5&locale=pt_BR&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false" alt="GitHub Streak de joaopauloaramuni" width="466" height="194" loading="lazy" />
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr>
+</table>
+
+<table>
+<tr>
+ <td align="center"></td>
+</tr>
+<tr>
+ <td align="center"><a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid" target="_blank"><img align="center" alt="github-user-contribution" src="https://joaopauloaramuni.github.io/image/github-user-contribution.svg?raw=true"/></a></td>
+</tr>
+<tr>
+ <td align="center"></td>
+</tr> 
+</table>
+</div>
+</div>
+
+<div>
+<details>
+<summary><img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/graphic.svg?raw=true"/>&nbsp;Veja mais
+</summary>
+<br />
+
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="2">:octocat: GitHub Metrics</td>
+</tr>
+<tr>
+<td>
+<img width="400px" src="https://joaopauloaramuni.github.io/metrics.classic.svg" alt="Metrics">
+</td>
+<td>
+<img width="400px" src="https://joaopauloaramuni.github.io/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics">
+</td>
+</tr>
+<tr>
+<td>
+<img width="400px" src="https://joaopauloaramuni.github.io/metrics.plugin.stars.svg" alt="Metrics">
+</td>
+<td>
+<img width="400px" src="https://joaopauloaramuni.github.io/metrics.plugin.activity.svg" alt="Metrics">
+</td>
+</tr>
+<tr>
+<td>
+<img width="400px" src="https://joaopauloaramuni.github.io/metrics.plugin.people.followers.svg" alt="Metrics">
+</td>
+<td>
+<img width="400px" src="https://joaopauloaramuni.github.io/metrics.plugin.stargazers.svg" alt="Metrics">
+</td>
+</tr>
+<tr>
+<td>
+<img width="400px" src="https://joaopauloaramuni.github.io/metrics.plugin.topics.icons.svg" alt="Metrics">
+</td>
+<td>
+<img width="400px" src="https://joaopauloaramuni.github.io/metrics.terminal.svg" alt="Metrics">
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+</table>
+</div>
+
+<div align="center">
+<table>
+<tr>
+ <td align="center">:octocat: GitHub 5-Year Retrospective</td>
+</tr>
+<tr>
+ <td align="center">
+  <img src="https://joaopauloaramuni.github.io/image/postspark_export_12-16-2024_17-14-32.png" alt="GitHub 5-Year Retrospective">
+ </td>
+</tr>
+</table>
+</div>
+
+</details>
+</div>
+
+-----
