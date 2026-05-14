@@ -314,10 +314,9 @@ Here are some ideas to get you started:
 </tr>
 </table>
 
-</table>
-<td align="center" colspan="11"></td>
+
 [![GitHub Stats](https://helio-github-stats.vercel.app/api?username=PedroFlau&custom_title=GitHub+Stats&theme=dark&title_color=2f80ed&text_color=ffffff&icon_color=4c71f2&ring_color=2f80ed&border_color=2c407d&hide_border=false&locale=pt-br&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=true&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://nice-readme.vercel.app/github-stats)
-</table>
+
 
 -----
 
