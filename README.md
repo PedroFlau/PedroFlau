@@ -69,6 +69,14 @@ Here are some ideas to get you started:
 
 -----
 
-<img alt="Stars" src="..."/> <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/star.svg?raw=true"/>&nbsp;Mais de x estrelas somadas nos repositórios. Obrigado pelo seu apoio! 👨‍💻
+<img alt="Stars" src="https://img.shields.io/github/stars/joaopauloaramuni?style=social"/> <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/star.svg?raw=true"/>&nbsp;Mais de x estrelas somadas nos repositórios. Obrigado pelo seu apoio! 👨‍💻
+
+-----
+
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>Sobre mim:
+
+<div align="justify">
+...
+</div>
 
 -----
