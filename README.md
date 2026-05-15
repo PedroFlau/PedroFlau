@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -----
 
 <div>
-<img align="center" alt="Header" src="https://joaopauloaramuni.github.io/image/header_aramuni.png"/>
+<img align="center" alt="Header" src="https://github.com/PedroFlau/PedroFlau/blob/main/github-header-banner%20(1).png"/>
 </div>
 
 -----
