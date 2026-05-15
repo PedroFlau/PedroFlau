@@ -99,7 +99,7 @@ Here are some ideas to get you started:
 </td>
 <td>
 <div>
-<img alt="SVG" src="https://joaopauloaramuni.github.io/image/dev1b.svg?raw=true" width="340px" height="650px" />
+<img alt="SVG" src="https://github.com/PedroFlau/PedroFlau/blob/main/artePedro1.png" width="340px" height="650px" />
 </div>
 </td>
 </tr>
