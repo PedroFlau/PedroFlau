@@ -251,11 +251,3 @@ Here are some ideas to get you started:
 -----
 
 
- [![Profile Views](https://komarev.com/ghpvc/?username=PedroFlau&style=for-the-badge)](https://nice-readme.vercel.app/views-badge)
-
-
-<center>
-<a href="https://nice-readme.vercel.app/streak-stats" target="_blank" rel="noopener noreferrer"><img src="https://github-streak-stats-ruby.vercel.app/?user=PedroFlau&theme=dark&hide_border=false&border_radius=4.5&locale=pt_BR&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false" alt="GitHub Streak de PedroFlau" width="466" height="194" loading="lazy" /></a>
-</center>
-
------
