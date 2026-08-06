@@ -126,7 +126,7 @@ Here are some ideas to get you started:
     <td align="center"><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/html.svg?raw=true"/></a></td>
     <td align="center"><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/css.svg?raw=true"/></a></td>
     <td align="center"><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/js.png?raw=true"/></a></td>
-    <td align="center"><a href="https://pt-br.reactjs.org/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/react.png?raw=true"/></a></td>
+    <!--<td align="center"><a href="https://pt-br.reactjs.org/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/react.png?raw=true"/></a></td>-->
    <td align="center"><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/vs.png?raw=true"/></a></td>
   <!--</tr>
   <tr>
