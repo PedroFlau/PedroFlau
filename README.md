@@ -118,36 +118,17 @@ Here are some ideas to get you started:
     <td align="center" colspan="12"></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://joaopauloaramuni.github.io/image/bash.png?raw=true"/></a></td>
-    <td align="center"><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/python.png?raw=true"/></a></td>
+    <!--<td align="center"><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/python.png?raw=true"/></a></td>-->
     <td align="center"><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/c.png?raw=true"/></a></td>
     <td align="center"><a href="https://isocpp.org/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/cpp.svg?raw=true"/></a></td>
-    <td align="center"><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/csharp.png?raw=true"/></a></td>
+    <!--<td align="center"><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/csharp.png?raw=true"/></a></td>-->
     <td align="center"><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/java.png?raw=true"/></a></td>
-    <td align="center"><a href="https://openjfx.io/" target="_blank"><img height="32" src="https://joaopauloaramuni.github.io/image/javafx.png?raw=true"/></a></td>
-    <td align="center"><a href="https://www.primefaces.org/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/primefaces.png?raw=true"/></a></td>
-    <td align="center"><a href="https://spring.io/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/spring.png?raw=true"/></a></td>
-    <td align="center"><a href="https://www.playframework.com/" target="_blank"><img width="48" height="32" src="https://joaopauloaramuni.github.io/image/play.png?raw=true"/></a></td>
-    <td align="center"><a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/dotnet.png?raw=true"/></a></td>
-    <td align="center"><a href="https://www.jenkins.io/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/jenkins.svg?raw=true"/></a></td>
-  </tr>
-  <tr>
-    <td align="center" colspan="12"></td>
-  </tr>
-  <tr>
     <td align="center"><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/html.svg?raw=true"/></a></td>
     <td align="center"><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/css.svg?raw=true"/></a></td>
     <td align="center"><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/js.png?raw=true"/></a></td>
     <td align="center"><a href="https://pt-br.reactjs.org/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/react.png?raw=true"/></a></td>
-    <td align="center"><a href="https://docs.microsoft.com/pt-br/windows/win32/lwef/using-vbscript" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/vbs.png?raw=true"/></a></td>
-    <td align="center"><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/mysql.png?raw=true"/></a></td>
-    <td align="center"><a href="https://www.postgresql.org/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/postgresql.png?raw=true"/></a></td>
-    <td align="center"><a href="https://www.mongodb.com/pt-br" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/mongodb.png?raw=true"/></a></td>
-    <td align="center"><a href="https://dbeaver.io/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/dbeaver.png?raw=true"/></a></td>
-    <td align="center"><a href="https://nodejs.org/en/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/nodejs.png?raw=true"/></a></td>
-    <td align="center"><a href="https://nextjs.org/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/nextjs.png?raw=true"/></a></td>
-    <td align="center"><a href="https://jestjs.io/pt-BR/" target="_blank"><img width="30" height="32" src="https://joaopauloaramuni.github.io/image/jest.png?raw=true"/></a></td>
-  </tr>
+   <td align="center"><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/vs.png?raw=true"/></a></td>
+  <!--</tr>
   <tr>
     <td align="center" colspan="12"></td>
   </tr>
@@ -176,11 +157,10 @@ Here are some ideas to get you started:
     <td align="center"><a href="https://www.jetbrains.com/pt-br/pycharm/download/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/pc.png?raw=true"/></a></td>
     <td align="center"><a href="https://www.eclipse.org/downloads/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/eclipse.png?raw=true"/></a></td>
     <td align="center"><a href="https://netbeans.apache.org/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/netbeans.png?raw=true"/></a></td>
-    <td align="center"><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/vs.png?raw=true"/></a></td>
     <td align="center"><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/intellij.png?raw=true"/></a></td>
     <td align="center"><a href="https://developer.apple.com/xcode/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/xcode.png?raw=true"/></a></td>
     <td align="center"><a href="https://cursor.com/pt-BR" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/cursor.png?raw=true"/></a></td>
-    <td align="center"><a href="https://claude.ai/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/claude.svg?raw=true"/></a></td>
+    <td align="center"><a href="https://claude.ai/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/claude.svg?raw=true"/></a></td>-->
    </tr>
    <tr>
     <td align="center" colspan="12"></td>
